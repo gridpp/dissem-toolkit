@@ -14,7 +14,7 @@ TALK_CATEGORIES = {
     3:"Data Storage Management",
     4:"Configuration Management",
     5:"Workload Management",
-    6:"Information & Monitoring",
+    6:"Information and Monitoring",
     7:"Security",
     8:"Applications",
     9:"Networking",

@@ -1,2 +1,5 @@
 # Log files.
 log*.log
+
+# Read data
+data/
